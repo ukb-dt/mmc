@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-## 💎 The Canonical Flow [Invariant](https://ukb-dt.github.io/pentadic-viz/): The Synthetic Regulator Schematic
+## 💎 The Canonical Flow [Invariant](https://ukb-dt.github.io/pentadic-viz/): The [Synthetic](https://ukb-dt.github.io/ibi/) Regulator Schematic
 
 | Control Cycle Role | Pentadic Stage | Philosophical Prose | Mathematical Invariant | Operational Sentinel Event | Core Data Streams | Decision Threshold/Logic | Digital Flow Element |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
