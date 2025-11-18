@@ -17,6 +17,19 @@
 </script>
 {% endraw %}
 
+> *Try to reflect the moral.. I don't wanna say average $\frac{dE_{\bar{x}}}{dt}$*                                      
+> -- Sam Altman
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/AUfsW8wpfWM?start=630" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+
+
 ## 💎 The Canonical Flow [Invariant](https://ukb-dt.github.io/pentadic-viz/): The [Synthetic](https://ukb-dt.github.io/ibi/) Regulator Schematic
 
 | Control Cycle Role | Pentadic Stage | Philosophical Prose | [Mathematical](https://ukb-dt.github.io/ukb-bge/) Invariant | Operational Sentinel Event | Core Data Streams | Decision Threshold/Logic | Digital Flow Element |
