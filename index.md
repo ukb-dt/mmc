@@ -30,7 +30,7 @@
 
 
 
-## 💎 The Canonical Flow [Invariant](https://ukb-dt.github.io/pentadic-viz/): The [Synthetic](https://ukb-dt.github.io/ibi/) Regulator [Schematic](https://ukb-dt.github.io/alpha/)
+## 💎 The [Canonical](https://ukb-dt.github.io/es/) Flow [Invariant](https://ukb-dt.github.io/pentadic-viz/): The [Synthetic](https://ukb-dt.github.io/ibi/) Regulator [Schematic](https://ukb-dt.github.io/alpha/)
 
 | Control Cycle Role | [Pentadic](https://ukb-dt.github.io/ai-review/) Stage | [Philosophical](https://ukb-dt.github.io/n/) [Prose](https://ukb-dt.github.io/future/) | [Mathematical](https://ukb-dt.github.io/ukb-bge/) Invariant | Operational Sentinel Event | Core Data [Streams](https://ukb-dt.github.io/who-03/) | [Decision](https://ukb-dt.github.io/peer-review/) Threshold/Logic | Digital Flow [Element](https://ukb-dt.github.io/olympians/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
